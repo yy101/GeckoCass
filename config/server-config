@@ -1,0 +1,9 @@
+{
+    "thread_num": 16,
+    "malicious": true,
+    "ring_size": 128,
+    "vector_size": 3,
+    "data_size (2^x)": 20,
+    "Cass_IP": "127.0.0.1",
+    "dc": "dc1"
+}

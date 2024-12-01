@@ -1,0 +1,7 @@
+{
+    "operation": 3,
+    "num_ands": 8,
+    "vector_size": 3,
+    "data_size (2^x)": 20,
+    "source_path": "Absolute Path to Data File: Taxi_Trips__2013-2023_.csv"
+}
